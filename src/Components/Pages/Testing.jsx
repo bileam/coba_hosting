@@ -33,7 +33,7 @@ const Testing = () => {
             )}
           </button>
           <h1 className="mt-5 dark:text-t-white text-3xl text-t-black ">
-            MODE {isDark ? "DARK" : "BLUE"}
+            MODE {isDark ? "DARK" : "BLUE"} bileam mangalla
           </h1>
         </div>
       </div>
